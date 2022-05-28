@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "162061348611",
+    "firebase_url": "https://faisalproject-c3660-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "faisalproject-c3660",
+    "storage_bucket": "faisalproject-c3660.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162061348611:android:11be97037e8e1379948336",
+        "android_client_info": {
+          "package_name": "alfaisal.firebase.abubaker_200453"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162061348611-e3m0rpct25hrhk72lu4citju4b7fcfm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRNwcIo6SpVEAB6I3KI_Z1zaLR6KnJnD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162061348611-e3m0rpct25hrhk72lu4citju4b7fcfm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
